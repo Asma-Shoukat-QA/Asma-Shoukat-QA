@@ -1,6 +1,6 @@
 # Hi there, I'm Asma Shoukat! 👋
 
-### Quality Assurance Analyst | AI Trainer | LLM Evaluator | Prompt Engineer | Data & Business Analyst
+### QA Analyst | AI Trainer | LLM Evaluator | Prompt Engineer | Data & Business Analyst
 
 📍 Pakistan | 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/asma-shoukat-969124420) | 📧 [Email Me](mailto:asmashoukat464@gmail.com)
 
@@ -8,21 +8,21 @@
 
 ## 🧠 About Me
 
-I am a detail-oriented and analytical **Quality Assurance (QA) Analyst** and AI Data Reviewer with nearly 5 years of remote professional experience. My core focus is ensuring that AI systems, data pipelines, and model outputs are accurate, logical, and safe. 
+Welcome to my personal portfolio! I am a detail-oriented and analytical **QA Analyst** and AI Data Reviewer with nearly 5 years of remote professional experience. My core focus is ensuring that AI systems, data pipelines, and model outputs are accurate, logical, and safe. 
 
-With a unique blend of technical expertise (B.S. Computer Science, GPA 3.67) and business acumen (BBA), I excel at designing rigorous QA methodologies. I apply logical reasoning, technical writing, and **Basic Python Programming** to conduct edge-case testing, identify hallucinations and biases, and enforce strict quality control standards across multilingual datasets.
+With a unique blend of technical expertise (B.S. Computer Science, GPA 3.67) and business acumen (BBA), I excel at bridging the gap between AI model behavior and user needs. I apply rigorous Quality Assurance (QA) standards, logical reasoning, and Basic Python Programming to evaluate AI responses, engineer complex prompts, and detect hallucinations and biases across multilingual datasets.
 
 ---
 
 ## 🛠️ Core Competencies
 
-**🛡️ Quality Assurance & Testing (Main Focus)**
-*   QA Methodologies & Auditing
-*   Edge-Case Testing & Bug Tracking
-*   Accuracy & Coherence Verification
+**🛡️ QA & Technical Skills (Main Focus)**
+*   Quality Assurance (QA) Methodologies & Auditing
 *   Logical Reasoning & Critical Content Review
-*   Technical Writing & SOP Creation
 *   Basic Python Programming
+*   Edge-Case Testing & Bug Tracking
+*   Technical Writing & SOP Creation
+*   Accuracy & Coherence Verification
 
 **🤖 AI Evaluation & Safety**
 *   LLM Evaluation & Model Response Grading
@@ -46,17 +46,19 @@ With a unique blend of technical expertise (B.S. Computer Science, GPA 3.67) and
 
 ## 💼 Professional Experience
 
-**Data Quality Analyst & AI Data Reviewer** | OneForma
-*Jan 2020 - Oct 2024 | Remote*
-*   **Quality Assurance (QA):** Executed rigorous QA assessments and AI safety evaluations of AI-generated responses across diverse domains, ensuring strict adherence to factual precision, logical reasoning, and instruction guidelines.
-*   **Edge-Case Testing & Error Identification:** Systematically identified hallucinations, model bias, safety violations, and edge-case errors to guide iterative AI system training and output fine-tuning.
-*   **Process Documentation:** Authored technical documentation, style guides, and standard operating procedures (SOPs) to maintain consistent quality control standards across remote data annotation teams.
-*   **Data & Business Analysis:** Applied business analysis principles to evaluate data workflows, formulate structured feedback, and optimize annotation pipelines for maximum efficiency across multilingual datasets.
-
-**AI Trainer (QA Focus)** | Turing (Contract)
-*Sep 2026 - Oct 2026 | Remote*
+**AI Trainer** | Turing (Contract)
+*Sep 2024 - Oct 2024 | Remote*
+*   Successfully completed a specialized AI training contract, meeting all client requirements, strict deadlines, and quality benchmarks.
 *   Applied advanced Prompt Engineering and logical reasoning to evaluate and refine AI model responses for high-quality, factual output.
 *   Utilized QA methodologies and AI safety evaluation techniques to test model limitations, identify safety risks and edge-case errors, and improve overall AI performance.
+
+**Data Quality Analyst & AI Data Reviewer (Business & Data Analysis)** | OneForma
+*Jan 2020 - Oct 2024 | Remote*
+*   **Quality Assurance & Safety:** Executed rigorous QA assessments and AI safety evaluations of AI-generated responses across diverse domains, ensuring strict adherence to factual precision, logical reasoning, safety guidelines, and instruction parameters.
+*   **Data Analysis & Annotation:** Performed comprehensive data analysis, data labeling, and prompt evaluation pipelines to support machine learning models across multilingual datasets.
+*   **Business Analysis:** Applied business analysis principles to evaluate data workflows, formulate structured feedback, and optimize annotation pipelines for maximum efficiency.
+*   **Technical Writing:** Authored technical documentation, style guides, and standard operating procedures (SOPs) to maintain consistent quality control standards across remote data annotation teams.
+*   **Error Identification:** Systematically identified hallucinations, model bias, safety violations, and edge-case errors to guide iterative AI system training and output fine-tuning.
 
 ---
 
@@ -71,9 +73,14 @@ With a unique blend of technical expertise (B.S. Computer Science, GPA 3.67) and
 
 ---
 
+## 🚀 Key Skills
+Quality Assurance (QA) • AI Safety Evaluation • Red Teaming • LLM Evaluation • Prompt Engineering • Basic Python Programming • Logical Reasoning • Technical Writing • Data Annotation • Business Analysis • Data Analysis • Multilingual Data Review • AI Training
+
+---
+
 ## 📫 Let's Connect!
 
-I am always open to discussing Quality Assurance, AI alignment, safety evaluation, and data projects. 
+I am always open to discussing Quality Assurance, AI alignment, safety evaluation, and multilingual data projects. 
 
 *   **LinkedIn:** [linkedin.com/in/asma-shoukat-969124420](https://www.linkedin.com/in/asma-shoukat-969124420)
 *   **Email:** [asmashoukat464@gmail.com](mailto:asmashoukat464@gmail.com)
