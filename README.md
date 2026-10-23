@@ -1,44 +1,79 @@
-# Hi there, I'm Asma Shoukat 👋
+# Hi there, I'm Asma Shoukat! 👋
 
-### **AI Trainer | LLM Evaluator | QA Tester | Prompt Engineer | Data & Business Analyst**
+### Quality Assurance Analyst | AI Trainer | LLM Evaluator | Prompt Engineer | Data & Business Analyst
 
-📍 Pakistan | 📞 +92 328 1857964 | 🔗 [LinkedIn Profile](https://linkedin.com/in/asma-shoukat-969124420)[span_0](start_span)[span_0](end_span)
+📍 Pakistan | 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/asma-shoukat-969124420) | 📧 [Email Me](mailto:asmashoukat464@gmail.com)
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-Detail-oriented and analytical AI Data Reviewer, QA Specialist, and Business/Data Analyst with nearly 5 years of remote professional experience[span_1](start_span)[span_1](end_span). Expert in AI model evaluation, prompt engineering, AI safety evaluation, and data annotation[span_2](start_span)[span_2](end_span). Holds a B.S. in Computer Science (GPA 3.67) and a BBA, blending technical expertise with business acumen[span_3](start_span)[span_3](end_span). Highly skilled in applying logical reasoning, technical writing, basic Python programming, and rigorous Quality Assurance (QA) standards to ensure AI system responses are accurate, logical, and safe[span_4](start_span)[span_4](end_span). Advanced multilingual capabilities across English, Urdu, Hindi, and Indonesian support comprehensive, multi-domain global dataset evaluations for top-tier AI remote projects[span_5](start_span)[span_5](end_span).
+I am a detail-oriented and analytical **Quality Assurance (QA) Analyst** and AI Data Reviewer with nearly 5 years of remote professional experience. My core focus is ensuring that AI systems, data pipelines, and model outputs are accurate, logical, and safe. 
+
+With a unique blend of technical expertise (B.S. Computer Science, GPA 3.67) and business acumen (BBA), I excel at designing rigorous QA methodologies. I apply logical reasoning, technical writing, and **Basic Python Programming** to conduct edge-case testing, identify hallucinations and biases, and enforce strict quality control standards across multilingual datasets.
 
 ---
 
 ## 🛠️ Core Competencies
 
-* **AI & Prompt Engineering:** Prompt Engineering, LLM Evaluation, AI Safety Evaluation, RLHF Alignment, Model Response Grading, Hallucination & Bias Detection, Red Teaming[span_6](start_span)[span_6](end_span).
-* **Data & Business Analysis:** Data Analysis, Business Analysis, Data Annotation & Labeling, Edge-Case Testing, Process Documentation[span_7](start_span)[span_7](end_span).
-* **QA & Technical Skills:** Quality Assurance (QA), Logical Reasoning, Basic Python Programming, Technical Writing, Critical Content Review, Accuracy & Coherence Verification[span_8](start_span)[span_8](end_span).
-* **Languages Spoken:** English (Full Professional Proficiency) • Urdu (Native/Fluent) • Hindi (Professional Working Proficiency) • Indonesian (Advanced Professional Proficiency)[span_9](start_span)[span_9](end_span).
+**🛡️ Quality Assurance & Testing (Main Focus)**
+*   QA Methodologies & Auditing
+*   Edge-Case Testing & Bug Tracking
+*   Accuracy & Coherence Verification
+*   Logical Reasoning & Critical Content Review
+*   Technical Writing & SOP Creation
+*   Basic Python Programming
+
+**🤖 AI Evaluation & Safety**
+*   LLM Evaluation & Model Response Grading
+*   AI Safety Evaluation & Red Teaming
+*   RLHF Alignment
+*   Hallucination & Bias Detection
+*   Prompt Engineering
+
+**📊 Data & Business Analysis**
+*   Data Annotation & Labeling
+*   Business Analysis & Process Documentation
+*   Multilingual Data Review
+
+**🌍 Languages**
+*   **English:** Full Professional Proficiency
+*   **Urdu:** Native/Fluent
+*   **Hindi:** Professional Working Proficiency
+*   **Indonesian:** Advanced Professional Proficiency
 
 ---
 
-## 💼 Professional Experience Overview
+## 💼 Professional Experience
 
-* **AI Trainer | Turing (Contract)** *(Sep 2026 – Oct 2026 | Remote)*[span_10](start_span)[span_10](end_span)
-  * Successfully completed specialized AI training contracts, meeting all client requirements, strict deadlines, and quality benchmarks[span_11](start_span)[span_11](end_span).
-  * Applied advanced Prompt Engineering, AI safety evaluation techniques, and logical reasoning to evaluate and refine AI model responses for high-quality, safe, and factual output[span_12](start_span)[span_12](end_span).
-* **Data Quality Analyst & AI Data Reviewer | OneForma** *(Jan 2020 – Oct 2024 | Remote)*[span_13](start_span)[span_13](end_span)
-  * Executed rigorous QA assessments and AI safety evaluations across diverse domains, ensuring strict adherence to precision, logic, and safety guidelines[span_14](start_span)[span_14](end_span).
-  * Authored technical documentation, style guides, and standard operating procedures (SOPs) to maintain consistent quality control standards across remote teams[span_15](start_span)[span_15](end_span).
+**Data Quality Analyst & AI Data Reviewer** | OneForma
+*Jan 2020 - Oct 2024 | Remote*
+*   **Quality Assurance (QA):** Executed rigorous QA assessments and AI safety evaluations of AI-generated responses across diverse domains, ensuring strict adherence to factual precision, logical reasoning, and instruction guidelines.
+*   **Edge-Case Testing & Error Identification:** Systematically identified hallucinations, model bias, safety violations, and edge-case errors to guide iterative AI system training and output fine-tuning.
+*   **Process Documentation:** Authored technical documentation, style guides, and standard operating procedures (SOPs) to maintain consistent quality control standards across remote data annotation teams.
+*   **Data & Business Analysis:** Applied business analysis principles to evaluate data workflows, formulate structured feedback, and optimize annotation pipelines for maximum efficiency across multilingual datasets.
+
+**AI Trainer (QA Focus)** | Turing (Contract)
+*Sep 2026 - Oct 2026 | Remote*
+*   Applied advanced Prompt Engineering and logical reasoning to evaluate and refine AI model responses for high-quality, factual output.
+*   Utilized QA methodologies and AI safety evaluation techniques to test model limitations, identify safety risks and edge-case errors, and improve overall AI performance.
 
 ---
 
 ## 🎓 Education
 
-* **Bachelor of Science in Computer Science** | University of the Punjab *(Jan 2024 – Jul 2026 | GPA: 3.67 / 4.00)*[span_16](start_span)[span_16](end_span)
-* **Bachelor of Business Administration (BBA) - Management** | University of the Punjab *(Jan 2018 – Jul 2022 | GPA: 3.07 / 4.00)*[span_17](start_span)[span_17](end_span)
-* **Intermediate in Computer Science** | Army Public School *(Jan 2015 – Jun 2017 | Grade: A)*[span_18](start_span)[span_18](end_span)
+*   **Bachelor of Science in Computer Science** | University of the Punjab
+    *Jan 2024 - Jul 2026 | GPA: 3.67 / 4.00*
+*   **Bachelor of Business Administration (BBA) - Management** | University of the Punjab
+    *Jan 2018 - Jul 2022 | GPA: 3.07 / 4.00*
+*   **Intermediate in Computer Science** | Army Public School
+    *Jan 2015 - Jun 2017 | Grade: A*
 
 ---
 
-## 🔑 Key Skills
-Prompt Engineering • LLM Evaluation • AI Safety Evaluation • Business Analysis • Data Analysis • Logical Reasoning • Quality Assurance (QA) • Basic Python Programming • Technical Writing • Data Annotation • Multilingual Data Review • AI Training[span_19](start_span)[span_19](end_span)
+## 📫 Let's Connect!
+
+I am always open to discussing Quality Assurance, AI alignment, safety evaluation, and data projects. 
+
+*   **LinkedIn:** [linkedin.com/in/asma-shoukat-969124420](https://www.linkedin.com/in/asma-shoukat-969124420)
+*   **Email:** [asmashoukat464@gmail.com](mailto:asmashoukat464@gmail.com)
